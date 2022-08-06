@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Skittle
+Mostly I modify shit scripts mostly for the QBCore FiveM Framework. I mainly have no clue what i'm doing I copied this readme template from Kings :rage3:
 <!--
 **SKITTLE6969/SKITTLE6969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![SKITTLE's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKITTLE6969&show_icons=true&theme=radical)
+-->
+
+![SKITTLE's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKITTLE6969&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SKITTLE6969&repo=github-readme-stats)](https://github.com/SKITTLE6969/github-readme-stats)
 

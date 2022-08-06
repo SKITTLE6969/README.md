@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKITTLE6969)](https://github.com/SKITTLE6969/github-readme-stats)
+-->![SKITTLE's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKITTLE6969&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SKITTLE6969&repo=github-readme-stats)](https://github.com/SKITTLE6969/github-readme-stats)
 
@@ -22,4 +21,4 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/SKITTLE6969/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKITTLE6969&show_icons=true&theme=radical)
+

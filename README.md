@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ![SKITTLE's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKITTLE6969&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SKITTLE6969&repo=github-readme-stats)](https://github.com/SKITTLE6969/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 

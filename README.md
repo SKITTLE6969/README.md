@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 ![SKITTLE's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKITTLE6969&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKITTLE6969)](https://github.com/SKITTLE6969/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SKITTLE6969)](https://github.com/SKITTLE6969/github-readme-stats)
 
 

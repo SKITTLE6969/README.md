@@ -1,6 +1,6 @@
 <h3>🖮 Coding</h3>
 <div align="center">
-<img width="38%" src="[![Discord Presence](https://lanyard.cnrad.dev/api/450896812237389824)](https://discord.com/users/450896812237389824)" /><br>  
+<img width="38%" src="https://lanyard.cnrad.dev/api/450896812237389824)](https://discord.com/users/450896812237389824" /><br>  
    <a href="https://www.buymeacoffee.com/SKITTLE6969" target="_blank"><img src="https://cdn.discordapp.com/attachments/715130970294059088/1044868358740377650/coffee.png"/></a>
    <a href="https://discord.gg/8ZFCbUYmvB" target="_blank"><img src="https://cdn.discordapp.com/attachments/715130970294059088/1044855172494532628/discord.png"/></a>
 </div>

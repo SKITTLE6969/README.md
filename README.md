@@ -8,7 +8,7 @@
 <h3>🎶 Vibing to</h3>
 <div align="center">
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=SKITTLE6969&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=SKITTLE6969&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31y3egkj73zi6a6a7fnhlvv4ylgi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
   
 </div>
 

@@ -50,7 +50,7 @@ I have a strong foundation in databases like **MySQL**, **MongoDB**, and **Maria
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SKITTLE6969&theme=solarized-dark&hide_border=false)<br/>
+!(https://github-readme-stats.vercel.app/api?username=SKITTLE6969&show_icons=true&theme=radical)
 
 ---
 

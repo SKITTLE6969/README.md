@@ -50,14 +50,14 @@ I have a strong foundation in databases like **MySQL**, **MongoDB**, and **Maria
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=frostfire575&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SKITTLE6969&theme=solarized-dark&hide_border=false)<br/>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=frostfire575&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SKITTLE6969&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=frostfire575&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SKITTLE6969&limit=5&theme=algolia&combine_all_yearly_contributions=true)
